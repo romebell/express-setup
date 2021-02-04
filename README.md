@@ -5,7 +5,6 @@ This is a repo for setting up an express app
 
 ```text
 10594  cd express-setup
-10595  ;s
 10596  ls
 10597  npm init -y
 10598  ls
